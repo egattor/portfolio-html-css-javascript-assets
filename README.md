@@ -1,4 +1,4 @@
-## [Responsive Portfolio Website HTML CSS JavaScript]('https://youtube.com/egatortutorials)
+## [Responsive Portfolio Website HTML CSS JavaScript]('https://youtu.be/EAC5hdmW1go)
 
 ![](./thumbnail.jpg)
 
